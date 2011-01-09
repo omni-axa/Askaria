@@ -1,0 +1,56 @@
+// * frist meet*
+IF
+  See([PC])
+  NumTimesTalkedTo(0)
+THEN
+  RESPONSE #100
+    SmallWait(2)
+    StartDialogue("zyaska",[PC])
+    SetNumTimesTalkedTo(1)
+END
+
+// * Defense* 
+IF 
+  ActionListEmpty() 
+  See(NearestEnemyOf(Myself)) // 적을 보면 
+  HaveSpell(WIZARD_MIRROR_IMAGE) 
+THEN 
+  RESPONSE #100 
+    Spell(Myself,WIZARD_MIRROR_IMAGE) //
+ END 
+
+// * Combat* 
+IF 
+  Help([PC]) // 도움요청을 하는 동료가 있는가? 
+THEN 
+  RESPONSE #100 
+    AttackOneRound(LastAttackerOf(LastHelp(Myself)))  // 그 동료를 공격한 적을 6초간 공격 
+END 
+
+IF 
+  ActionListEmpty() 
+  See(NearestEnemyOf(Myself)) // 가장 가까운 적이 보일 때 
+THEN 
+  RESPONSE #100 
+    AttackReevaluate(NearestEnemyOf(Myself),12) // 12초간 공격, 도중에 다른 적으로부터 공격당할 경우 그 적으로 공격대상 바뀜.
+END 
+
+// * Magic Missle*
+IF 
+  See([ENEMY]) // 적이 보이는가? 
+  HaveSpell(WIZARD_MAGIC_MISSILE) // 매직미사일 주문을 가지고 있는가? 
+  HPLT(LastSeenBy(Myself),13) 
+THEN 
+  RESPONSE #100 // 100%의 확률 
+    Spell(LastSeenBy(Myself), WIZARD_MAGIC_MISSILE) 
+END 
+
+// **
+IF 
+  See([ENEMY]) // 적이 보이는가? 
+  HaveSpell(WIZARD_MELF_ACID_ARROW) 
+  HPLT(LastSeenBy(Myself),18) 
+THEN 
+  RESPONSE #100 
+    Spell(LastSeenBy(Myself), WIZARD_MELF_ACID_ARROW)  
+END 

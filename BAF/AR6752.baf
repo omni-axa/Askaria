@@ -1,0 +1,7 @@
+IF
+Global("zy#pai#exists","AR6752",0)
+THEN
+RESPONSE #100
+SetGlobal("zy#pai#exists","AR6752",1)
+CreateCreature("zypai",[505.628],15)
+END

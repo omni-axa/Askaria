@@ -1,0 +1,143 @@
+BACKUP ~Askaria/backup~
+AUTHOR ~drizztdd@naver.com~
+
+AUTO_TRA ~Askaria/Language/%s/D~
+
+LANGUAGE ~ÇÑ±¹¾î~ ~korean~ ~Askaria/Language/korean/setup.tra~
+
+BEGIN @0
+
+COPY ~Askaria/BMP~ ~override~
+
+APPEND ~PDIALOG.2DA~
+~ZYASKA       ZYASKAP             ZYASKAJ            ***            ***                ***                ***                 ***~
+
+COMPILE ~Askaria/D~
+
+COMPILE ~Askaria/BAF/ZYASKA.baf~
+COMPILE ~Askaria/BAF/ZYHAUSER.baf~
+COMPILE ~Askaria/BAF/ZYDOP1.baf~
+EXTEND_TOP ~AR6751.bcs~ ~Askaria/BAF/AR6751.baf~
+EXTEND_TOP ~AR6752.bcs~ ~Askaria/BAF/AR6752.baf~
+EXTEND_TOP ~AR6720.bcs~ ~Askaria/BAF/AR6720.baf~
+EXTEND_TOP ~AR6700.bcs~ ~Askaria/BAF/AR6700.baf~
+EXTEND_TOP ~AR9702.bcs~ ~Askaria/BAF/AR9702.baf~
+EXTEND_TOP ~AR9700.bcs~ ~Askaria/BAF/AR9700.baf~
+EXTEND_TOP ~AR6701.bcs~ ~Askaria/BAF/AR6701.baf~
+
+
+COPY ~Askaria/CRE/zya#1gan.cre~ ~override~
+  SAY NAME1 @1
+  SAY NAME2 @1
+
+COPY ~Askaria/CRE/zya#2gan.cre~ ~override~
+  SAY NAME1 @2
+  SAY NAME2 @2
+
+COPY ~Askaria/CRE/zya#3gan.cre~ ~override~
+  SAY NAME1 @3
+  SAY NAME2 @3
+
+COPY ~Askaria/CRE/zya#4gan.cre~ ~override~
+  SAY NAME1 @4
+  SAY NAME2 @4
+
+COPY ~Askaria/CRE/zya#5gan.cre~ ~override~
+  SAY NAME1 @5
+  SAY NAME2 @5
+
+COPY ~Askaria/CRE/zya#6gan.cre~ ~override~
+  SAY NAME1 @6
+  SAY NAME2 @6
+
+COPY ~Askaria/CRE/zya#7gan.cre~ ~override~
+  SAY NAME1 @7
+  SAY NAME2 @7
+
+COPY ~Askaria/CRE/zyaska.cre~ ~override~
+  SAY NAME1 @8
+  SAY NAME2 @8
+
+COPY ~Askaria/CRE/zyhauser.cre~ ~override~
+  SAY NAME1 @9
+  SAY NAME2 @9
+
+COPY ~Askaria/CRE/zyhaum1.cre~ ~override~
+  SAY NAME1 @10
+  SAY NAME2 @10
+
+COPY ~Askaria/CRE/zyhaum2.cre~ ~override~
+  SAY NAME1 @11
+  SAY NAME2 @11
+
+COPY ~Askaria/CRE/zypai.cre~ ~override~
+  SAY NAME1 @12
+  SAY NAME2 @12
+
+COPY ~Askaria/CRE/zyysdrag.cre~ ~override~
+  SAY NAME1 @21
+  SAY NAME2 @21
+
+COPY ~Askaria/CRE/zyasmith.cre~ ~override~
+  SAY NAME1 @26
+  SAY NAME2 @26
+
+COPY ~Askaria/CRE/zydop1.cre~ ~override~
+  SAY NAME1 @27
+  SAY NAME2 @27
+
+COPY ~Askaria/CRE/zydop2.cre~ ~override~
+  SAY NAME1 @28
+  SAY NAME2 @28
+
+COPY ~Askaria/CRE/zyd#gd1.cre~ ~override~
+  SAY NAME1 @29
+  SAY NAME2 @29
+
+COPY ~Askaria/CRE/zyd#gd2.cre~ ~override~
+  SAY NAME1 @29
+  SAY NAME2 @29
+
+COPY ~Askaria/CRE/zyhagu.cre~ ~override~
+  SAY NAME1 @30
+  SAY NAME2 @30
+
+COPY ~Askaria/CRE/zya#tmo.cre~ ~override~
+  SAY NAME1 @37
+  SAY NAME2 @37
+
+COPY ~Askaria/ITM/sethel.itm~ ~override~
+  SAY NAME1 @13
+  SAY DESC @14
+  SAY NAME2 @15
+  SAY DESC @16
+
+COPY ~Askaria/ITM/zysuzung.itm~ ~override~
+  SAY NAME2 @17
+  SAY DESC @18
+
+COPY ~Askaria/ITM/zysudust.itm~ ~override~
+  SAY NAME2 @19
+  SAY DESC @20
+
+COPY ~Askaria/ITM/setglo.itm~ ~override~
+  SAY NAME1 @22
+  SAY DESC @23
+  SAY NAME2 @24
+  SAY DESC @25
+
+COPY ~Askaria/ITM/zyaring.itm~ ~override~
+  SAY NAME2 @31
+  SAY DESC @32
+
+COPY ~Askaria/ITM/zya#bone.itm~ ~override~
+  SAY NAME2 @35
+  SAY DESC @36
+
+COPY ~Askaria/ITM/zya#book.itm~ ~override~
+  SAY NAME1 @33
+  SAY NAME2 @33
+  SAY UNIDENTIFIED_DESC @34
+  SAY DESC @34
+
+AT_INTERACTIVE_EXIT ~VIEW Askaria/readmeAskaria.txt~

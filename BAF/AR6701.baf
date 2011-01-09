@@ -1,0 +1,8 @@
+IF
+Global("zysmithexists","AR6701",0)
+Global("AS#PAI","GLOBAL",3)
+THEN
+RESPONSE #100
+SetGlobal("zysmithexists","AR6701",1)
+CreateCreature("zyasmith",[728.417],1)
+END

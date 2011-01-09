@@ -1,0 +1,11 @@
+IF
+Global("AS#PAI","GLOBAL",2)
+Global("zy#hau#exists2","AR9700",0)
+PartyHasItem("ZYSUZUNG") AreaCheck("AR9700")
+THEN
+RESPONSE #100
+SetGlobal("zy#hau#exists2","AR9700",1)
+CreateCreature("zyhauser",[2029.2433],8)
+CreateCreature("zyhaum1",[2106.2349],5)
+CreateCreature("zyhaum2",[1923.2424],10)
+END

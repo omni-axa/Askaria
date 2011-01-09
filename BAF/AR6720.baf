@@ -1,0 +1,8 @@
+IF
+Global("zydopexists","AR6720",0)
+THEN
+RESPONSE #100
+SetGlobal("zydopexists","AR6720",1)
+CreateCreature("zydop1",[411.149],0)
+CreateCreature("zydop2",[503.133],0)
+END

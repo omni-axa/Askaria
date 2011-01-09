@@ -1,0 +1,29 @@
+IF
+  !See([ENEMY])
+  See([PC])
+  NumberOfTimesTalkedTo(0)
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    StartDialogue("zyhauser",[PC])
+END
+
+IF
+  See([PC])
+  Global("HAU#SM","GLOBAL",1)
+THEN
+  RESPONSE #100
+    SmallWait(2)
+    StartDialogue("zyhauser",[PC])
+    Continue() //<-정말 중요한 구문이다. 이게 없으면 계속 밑에 IF구문을 실행하려고 버벅대면서 스크립트대로 전투를 하지 않는다. 하지만 이것을 추가함으로써 자연스러운 전투전개가 이루어지며, 결국 밑의 IF구문의 조건에 해당하면 PC와 대화하게된다.
+END
+
+IF
+  HPPercentLT(Myself,30)
+  Global("ZyhauserAlmostDie","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("ZyhauserAlmostDie","GLOBAL",1)
+    Dialogue([PC])
+END

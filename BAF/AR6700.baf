@@ -1,0 +1,26 @@
+IF
+Global("zyaskaexists","AR6700",0)
+THEN
+RESPONSE #100
+SetGlobal("zyaskaexists","AR6700",1)
+CreateCreature("zyaska",[1738.2768],0)
+CreateCreature("zya#1gan",[1819.2758],3)
+END
+
+IF
+Global("AskaEnding","GLOBAL",1) InParty("zyaska") Dead("zydop1") Dead("zydop2")
+THEN
+RESPONSE #100
+ReputationInc(1)
+SetGlobal("AskaEnding","GLOBAL",2)
+Wait(2)
+ActionOverride("zyaska",StartDialog("zyaska",[PC])
+END
+
+IF
+Global("zya#tmoexists","AR6700",0)
+THEN
+RESPONSE #100
+SetGlobal("zya#tmoexists","AR6700",1)
+CreateCreature("zya#tmo",[1828.3686],0)
+END
