@@ -1,7 +1,8 @@
-@0    = ~어머.. <CHARNAME>님 벌써 우리 약속을 잊으셨나요?~
-@1    = ~미안해. 잠깐만 떨어져있자. 하지만 약속은 꼭 지킬께.~
-@2    = ~하하. 장난이야 설마 내가 약속을 저버리겠어? 다시 함께하자!~
-@3    = ~알겠어요. 하지만 빨리오셔야 해요. 안그러면 다른 사람을 찿겠어요.~
-@4    = ~미안해요. 같이 다니기엔 너무 위험한것 같아서요.. 그동안 도와주신건 감사합니다.~
-@5    = ~이제 절도와주시는 건가요??~
-@6    = ~물론이지. 자 가자!~
+@0   = ~Oh my God .. She's already promised to others <CHARNAME> Forgot your password?~
+@1   = ~I'm sorry. Wait a minute knock off. But I am fighting for the promise.~
+@2   = ~haha. I promise to tell me you're kidding jeobeorigeteo? Let's together again!~
+@3   = ~I know. You must be fast, but. Or else chatgeteoyo.~
+@4   = ~I'm sorry. 'd like to hear you've been too .. Meanwhile, thanks to a jump on a hand.~
+@5   = ~Now you're stealing and give??~
+@6   = ~yes, sir. Come on!~
+
