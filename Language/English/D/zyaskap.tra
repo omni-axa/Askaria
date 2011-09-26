@@ -1,8 +1,7 @@
-@0   = ~Oh my God .. She's already promised to others <CHARNAME> Forgot your password?~
-@1   = ~I'm sorry. Wait a minute knock off. But I am fighting for the promise.~
-@2   = ~haha. I promise to tell me you're kidding jeobeorigeteo? Let's together again!~
-@3   = ~I know. You must be fast, but. Or else chatgeteoyo.~
-@4   = ~I'm sorry. 'd like to hear you've been too .. Meanwhile, thanks to a jump on a hand.~
-@5   = ~Now you're stealing and give??~
-@6   = ~yes, sir. Come on!~
-
+@0    = ~Oh. <CHARNAME>, have you already forgotten what you promised?~
+@1    = ~Sorry. We need to separate for a while. But I'll keep my promise.~
+@2    = ~Haha. It's a joke! Certainly, you didn't think I would break my promise? Let's go!~
+@3    = ~OK. But come back as soon as possible. If not, I will need to find another way.~
+@4    = ~Sorry. I think it's too dangerous for you. I thank you for helping me.~
+@5    = ~Will you help me now?~
+@6    = ~Sure, let's go!~

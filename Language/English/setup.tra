@@ -1,137 +1,132 @@
-@0   = ~BGT additional events for the user mode~ Asuka Australia 
-@1   = ~THUG 1~
-@2   = ~THUG 2~
-@3   = ~THUG 3~
-@4   = ~THUG 4~
-@5   = ~THUG 5~
-@6   = ~THUG 6~
-@7 = ~ THUG 7~
-@8   = ~Asuka Australia~ 
+@0   = ~Adds a Quest mod for BGT user~ 
+@1   = ~Outlaw1~ 
+@2   = ~Outlaw2~ 
+@3   = ~Outlaw3~ 
+@4   = ~Outlaw4~ 
+@5   = ~Outlaw5~ 
+@6   = ~Outlaw6~ 
+@7   = ~Outlaw7~ 
+@8   = ~Askaria~ 
 @9   = ~Hauser~ 
-@10   = ~Hauser left arm~ 
-@11   = ~Hauser right arm~ 
-@12   = ~pi Shaman Viscosity~
-@13   = ~ion Stone~ 
-@14   = ~owner of a small stone circles around the head comes out. And this stone, began circulating around the body so you will be equipped. Each of magic stones vary in color, has the ability.~ 
-@15   = ~child-of-Tyr~ 
-@16   = ~ion of these sacred stones blazing fire is the definition of a gift from God. Tyr is the symbol of the eyes, the fiery stones. This stone is suspended over the owner's head and filled with light from whoever the owner is to feel dignified. 
+@10   = ~Hauser's right Hand~ 
+@11   = ~Hauser's left Hand~ 
+@12   = ~Viscous Shaman Pie~ 
+@13   = ~Ioun Stone~ 
+@14   = ~(Description for Unidentified Ioun Stone) When equipped this small stone floats and starts spinning around the wearer's head. These magic stones have various abilities depending on their color.~ 
+@15   = ~Eye of Tyr~ 
+@16   = ~This shining Ioun stone is a gift from the God of Justice. It symbolizes the eye of Tyr. This stone floats above the wearer's head, and whoever owns it is seen in an elegant light. 
 
-Feature Summary: 
-Nunmeome immunity, on the one-point bonus attraction 
 
-Special skills: 
+STATISTICS: 
+Immunity to blindness, Charisma bonus 1 
 
-Once a day, prayer of salvation 
-Sacred Relic, should pray for a child-of-Tyr. The caster is healed. 
+Abilities: 
 
-Armor Class: +1 
-Weight: 2 
-Exclusive use: 
+Once per day: Cast Cure Light Wounds 
+Divine relic, Pray for Eye of Tyr. The caster will be fully cured. 
+
+AC +1 
+Weight : 2 
+Only usable by: 
 Paladin 
 
-Set Items (5) 
-'Blind God's tears' 
+Other Items in the set (5 items) 
+Tears from the Maimed God 
 
-Gauntlets of the divine power 
-Fast Boot of Justice 
-Eye Of Tyr 
-Aura Plate 
-Seles tier 
+Gauntlets of Holy Power 
+Boots of Quick Justice 
+Eye of Tyr 
+Plate of Aura 
+Celestear
 
-Ian Luke Martinez resiah Tyr was serving Paladins. Evil Red Dragon, he, Richie, I've got the whole lot of people to repel a vampire, and his saga was about so many can not leak. 
-After he died of his goods to a powerful five dogs received the blessing of Tyr to interact strongly with each other would have done. If you wear multiple items at the same time his powerful will be able to receive the blessings of Tyr. 
+Ian Lucrecia Martinez was a paladin serving Tyr. He's the hero of countless legends, having saved many people by defeating wicked red dragons, liches, vampires and other evil creatures. After he died, five items that belonged to him were found to have been blessed by Tyr. If the five items are equipped at the same time, the wearer is said to receive a powerful blessing of Tyr.  
 
-Set Effect (2) 
+Set Effect (2 items) 
 
-'Free Spirit' 
-Stun the wearer, seize them, when terrorism was at its effects deviate from the wearer himself. 
+Soul of freedom 
+A wearer is immune to the following effects : stun, capture, and horror. 
 
-Set Effect (5) 
+Set Effect (5 items) 
 
-'Tears of the sky' 
-Holly eobenjeo, Seles, a feature of Haitian 'judgments of Tyr' has been improved 'judgments of Tyr' to use the extra 'tears of the sky' is issued. 
-'The sky's tears around the electrical damage to the enemies of the 2D6 After a while, off the enemy from the sky Tears of Tyr 20D10 magic damage. The enemies in order to receive a -4 penalty on saving throw for the success of the damage can be reduced by half.~ 
+A Tear of Heaven  
+It gives the wearer the power to call upon the Judgment of Tyr. This advanced ability can be used when the Holy avenger and Celestear are equipped.  
+A Tear of Heaven deals 2D6 electricity damage to nearby enemies, and a tear of Tyr falls from the sky onto the enemies. It does 20D10 of magic damage. Enemies receive a -4 penalty against saving throws. Damage is be halved, if the saving throw is successful.~ 
 
-Revision of Truth @17   = ~Ore~ 
-@18 = ~, white and sparkling with this fix, you can see through all things, had the power.~ 
-@19   = ~fix~ flour only 
-@20   = ~true only of the modification made to a rough powder will be stored on. This powder touches everything is back to its original appearance.~ 
+@17   = ~Stone of True Seeing.~ 
+@18   = ~This shiny white stone has the power to reveal everything.~ 
+@19   = ~Bottle of crystal powder~ 
+@20   = ~This bottle is used as a container for a crystal crushed into powder. The powder can turn everything into its original form.~ 
 @21   = ~Little Sapphire Dragon~ 
-@22   = ~Gauntlets~ 
-@23   = ~geonteulriteun armor plate is attached gloves. This chain mail, leather or metal or can be made. All the armor in the same kind of material has been included geonteulriteul. Geonteulriteun magical quality better and lighter than normal, can easily be worn.~ 
-Gauntlets of Divine Power @24   = ~~ 
-@25   = ~two geonteulriteun Ian Paladins used to be great by itself contains powerful magic, plus two times per day, the divine power of Tyr can be rented some. 
+@22   = ~Gauntlet~ 
+@23   = ~(Description for Unidentified Gauntlet)~ 
+@24   = ~Gauntlet of Holy Power~ 
+@25   = ~This gauntlet grants a awesome magic power, used very often by Ian the paladin. The wearer can call upon Tyr's Holy Power once a day. 
+
+Abilities: 
+
+Cast Holy Power once a day. 
 
 
-Special skills: 
-
-Twice a day, the divine force descended 
-
-
-THAC0: +1 
+THAC0: +1  
 Weight: 2 
-Exclusive use: 
+Only usable by: 
 Paladin 
 
+Other Items in the set (5 items) 
+Tears from the Maimed God 
 
+Gauntlets of Holy Power 
+Boots of Quick Justice 
+Eye of Tyr 
+Plate of Aura 
+Celestear
 
+Ian Lucrecia Martinez was a paladin serving Tyr. He's the hero of countless legends, having saved many people by defeating wicked red dragons, liches, vampires and other evil creatures. After he died, five items that belonged to him were found to have been blessed by Tyr. If the five items are equipped at the same time, the wearer is said to receive a powerful blessing of Tyr.  
 
-Set Items (5) 
-'Blind God's tears' 
+Set Effect (2 items) 
 
-Gauntlets of the divine power 
-Fast Boot of Justice 
-Eye Of Tyr 
-Aura Plate 
-Seles tier 
+Soul of freedom 
+A wearer is immune to the following effects : stun, capture, and horror. 
 
-Ian Luke Martinez resiah Tyr was serving Paladins. Evil Red Dragon, he, Richie, I've got the whole lot of people to repel a vampire, and his saga was about so many can not leak. 
-After he died of his goods to a powerful five dogs received the blessing of Tyr to interact strongly with each other would have done. If you wear multiple items at the same time his powerful will be able to receive the blessings of Tyr. 
+Set Effect (5 items) 
 
+A Tear of Heaven  
+It gives the wearer the power to call upon the Judgment of Tyr. This advanced ability can be used when the Holy avenger and Celestear are equipped.  
+A Tear of Heaven deals 2D6 electricity damage to nearby enemies, and a tear of Tyr falls from the sky onto the enemies. It does 20D10 of magic damage. Enemies receive a -4 penalty against saving throws. Damage is be halved, if the saving throw is successful.~ 
 
-Set Effect (2) 
-
-'Free Spirit' 
-Stun the wearer, seize them, when terrorism was at its effects deviate from the wearer himself. 
-
-
-Set Effect (5) 
-
-'Tears of the sky' 
-Holly eobenjeo, Seles, a feature of Haitian 'judgments of Tyr' has been improved 'judgments of Tyr' to use the extra 'tears of the sky' is issued. 
-'The sky's tears around the electrical damage to the enemies of the 2D6 After a while, off the enemy from the sky Tears of Tyr 20D10 magic damage. The enemies in order to receive a -4 penalty on saving throw for the success of the damage can be reduced by half.~ 
-
-@26   = ~musoepal Paul smith~
-@27   = ~helmingteon father~ Asuka Australia 
-@28   = ~Selene~ Asuka Australian mother 
+@26   = ~Blacksmith~ 
+@27   = ~Helmington, Askaria's father of Askaria~ 
+@28   = ~Celine, Askaria's  mother~ 
 @29   = ~Guard~ 
-@30   = ~hegeumemnon~ 
+@30   = ~Hagamemnon~ 
 
-@31   = ~Asuka of the Rings~ Australian families 
-@32   = ~the green color of the light-colored ring Asuka Australia secretly handed down from generation to generation in the family is a treasure. A material itself as the world does not seem to be the secret for centuries has made a special ingredient called genius, enhanced through the wizard, the ring than any other magic stuff in to protect the wearer, the effect is outstanding. 
+@31   = ~Askaria's family ring~ 
+@32   = ~This light green colored ring is a treasure passed  from generation to generation in Askaria's family. It's mostly made of a material created with a secret ingredient. The ring was enhanced by a brilliant magician hundred years ago. It grants excellent protection to its wearer. 
 
-Feature Summary: 
-Immune to normal weapons. Immune to spells below level 3 
-0 it becomes the default armor. 
+Abilities: 
+Immunity to normal weapons. Immunity to Level 3 or lower spells. 
+AC 0 
 
-Exclusive use: 
-?Meiji~ 
+Only usable by: 
+Mages~ 
 
-Sounds bloody tweed @33   = ~~ a journal 
-@34   = ~bloody heard of tweezers journal 
+@33   = ~Twidley's blood drenched Journal~ 
+@34   = ~Twidley's blood drenched Journal 
 
-21. AUGUST 
-Ha! Awesome. Berets from accidentally passing this morning, Grandpa kerine Ghost in the wild .. Had gone out frequently dark, bats and rodents bet one hundred million yen manatdeon the cave must have been pretty. There is little dragon came to play. Lowell, hemiswi and I finally get done with our Angels are coming. We hold the dragon yumyeonghaejiltedat! 
+21 Elesias  
+Ha! Exciting! It must be the cave grandpa often told me about, I remember him saying something about a thousand bats. He also said there has been a little dragon in here recently. Rowel, Hemish and me, the three musketeers, are the only ones who could manage to find it. We will be famous! 
 
-22. AUGUST 
-All ready done. Hehehe, not a sword in front of Lowell Wood stole from my father holding the * real * sword .. I learned in school colors Magic Dragon spray will make you lose consciousness. He IS a genius at school called, I pick up the magic. Although last year received a B + .. Eojjatteun raid last dragon is behind hemiswiga. You'll throw down the dragon. Hehehe. Fun just thinking about it. 
+22 Elesias  
+All preparations are done. Rowel took his father's *real* sword, replacing it with a wood one, hihi. I learned how to cast the colour spray scroll that will make the dragon unconscious. I may look like a fool, but they have called me a genius by our school's magician. If I only got a B+ last year. Anyway, Hemish will assault the dragon from behind. So the dragon cannot escape his death. Hihi. I'm exciting just thinking about it. 
 
-24. AUGUST 
-Whoa .. Suddenly, I'm not sure that's come to the multitude of monsters. Yesterday I met in the cave before you get sick gibeolring seneomeul. Damn me hemiswineun Lowell is looking around while fighting alongside Sit around. Real best friend, but never have that moment and did not want to inflict. Hemiswi stupid .. If not for the rich guys that stupid to not put our members would not. Grandpa took a secret magic was brought to the knife blade is a good owner stupid. Dragon and fought with all means and would not do that. 
+24 Elesias  
+Huh... I don't know why there are so much more monsters today. Yesterday, all I met was three sick gibberlings before I reached the cave. Damn! Hemish was just standing by while Rowel and I were fighting against those monsters. And he was watching us fight! I would have left him behind in that very moment, even thou he is my best friend. Stupid Hemish... I wouldn't have let him in our team if he wasn't. He said he would bring a magic dagger from his grandpa. But the damn dagger's a fake. What was he thinking... we are going to fight against a dragon. 
 
-25. AUGUST 
-(Perhaps the manuscript is on the verge of entering the cave. Sseoitda scribbled handwriting roughly.) Holds too excited. When Jesus was born in the chest on when would the kongttakkongttak .. Dragon's head, holding the Angels right back, we are famous haejilgeot. I'm sorry for her to hurt, but I'd hit a school in Lee Charm~ hahaha .. 
+25 Elesias 
+(This probably was written before they entered the cave. The letters are scrawly.) I'm so exciting. I don't think I ever felt like this since I was born. We three musketeers will soon be famous, if we bring the dragon's head back home. Sorry Mom, but when this job is done, I will quit school. Hahaha...~ 
 
-@35   = ~skull~ 
-@36   = ~Sapphire Dragon Maybe little remains of the victims seem to have been slain.~ 
-@37   = ~tweed sounds of the mother~
+@35   = ~Skull~ 
+@36   = ~The remains of the victims of the sapphire dragon.~ 
+@37   = ~Twidley's Mother~ 
+
+@38   = ~Cries for release~~ 
