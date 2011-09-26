@@ -1,18 +1,18 @@
-@0   = ~Adds a Quest mod for BGT user~ 
-@1   = ~Outlaw1~ 
-@2   = ~Outlaw2~ 
-@3   = ~Outlaw3~ 
-@4   = ~Outlaw4~ 
-@5   = ~Outlaw5~ 
-@6   = ~Outlaw6~ 
-@7   = ~Outlaw7~ 
+@0   = ~Askaria Quest mod for BGT~ 
+@1   = ~Outlaw 1~ 
+@2   = ~Outlaw 2~ 
+@3   = ~Outlaw 3~ 
+@4   = ~Outlaw 4~ 
+@5   = ~Outlaw 5~ 
+@6   = ~Outlaw 6~ 
+@7   = ~Outlaw 7~ 
 @8   = ~Askaria~ 
 @9   = ~Hauser~ 
-@10   = ~Hauser's right Hand~ 
-@11   = ~Hauser's left Hand~ 
-@12   = ~Viscous Shaman Pie~ 
+@10   = ~Hauser's Right Hand~ 
+@11   = ~Hauser's Left Hand~ 
+@12   = ~Feral Shaman Pie~ 
 @13   = ~Ioun Stone~ 
-@14   = ~(Description for Unidentified Ioun Stone) When equipped this small stone floats and starts spinning around the wearer's head. These magic stones have various abilities depending on their color.~ 
+@14   = ~When equipped this small stone floats and starts spinning around the wearer's head. These magic stones have various abilities depending on their color.~ 
 @15   = ~Eye of Tyr~ 
 @16   = ~This shining Ioun stone is a gift from the God of Justice. It symbolizes the eye of Tyr. This stone floats above the wearer's head, and whoever owns it is seen in an elegant light. 
 
@@ -31,7 +31,7 @@ Only usable by:
 Paladin 
 
 Other Items in the set (5 items) 
-Tears from the Maimed God 
+Tears from the Maimed God
 
 Gauntlets of Holy Power 
 Boots of Quick Justice 
@@ -39,12 +39,12 @@ Eye of Tyr
 Plate of Aura 
 Celestear
 
-Ian Lucrecia Martinez was a paladin serving Tyr. He's the hero of countless legends, having saved many people by defeating wicked red dragons, liches, vampires and other evil creatures. After he died, five items that belonged to him were found to have been blessed by Tyr. If the five items are equipped at the same time, the wearer is said to receive a powerful blessing of Tyr.  
+Ian Lucrecia Martinez was a paladin serving Tyr. He is the hero of countless legends, having saved many people by defeating wicked red dragons, liches, vampires and other evil creatures. After he died, five items that belonged to him were found to have been blessed by Tyr. If the five items are equipped at the same time, the wearer is said to receive a powerful blessing of Tyr.  
 
 Set Effect (2 items) 
 
-Soul of freedom 
-A wearer is immune to the following effects : stun, capture, and horror. 
+Soul of Freedom 
+The wearer is immune to the following effects : stun, capture, and horror. 
 
 Set Effect (5 items) 
 
@@ -54,13 +54,13 @@ A Tear of Heaven deals 2D6 electricity damage to nearby enemies, and a tear of T
 
 @17   = ~Stone of True Seeing.~ 
 @18   = ~This shiny white stone has the power to reveal everything.~ 
-@19   = ~Bottle of crystal powder~ 
+@19   = ~Bottle of Crystal Powder~ 
 @20   = ~This bottle is used as a container for a crystal crushed into powder. The powder can turn everything into its original form.~ 
 @21   = ~Little Sapphire Dragon~ 
 @22   = ~Gauntlet~ 
-@23   = ~(Description for Unidentified Gauntlet)~ 
+@23   = ~Gauntlets are armored gloves.  They can be made of leather, metal plates, or chain mail.  Every suit of armor is assumed to include gauntlets of an appropriate type.  Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.~ 
 @24   = ~Gauntlet of Holy Power~ 
-@25   = ~This gauntlet grants a awesome magic power, used very often by Ian the paladin. The wearer can call upon Tyr's Holy Power once a day. 
+@25   = ~This gauntlet grants an awesome magical power, used very often by Ian the Paladin. The wearer can call upon Tyr's Holy Power once a day. 
 
 Abilities: 
 
@@ -85,8 +85,8 @@ Ian Lucrecia Martinez was a paladin serving Tyr. He's the hero of countless lege
 
 Set Effect (2 items) 
 
-Soul of freedom 
-A wearer is immune to the following effects : stun, capture, and horror. 
+Soul of Freedom 
+The wearer is immune to the following effects : stun, capture, and horror. 
 
 Set Effect (5 items) 
 
@@ -95,13 +95,13 @@ It gives the wearer the power to call upon the Judgment of Tyr. This advanced ab
 A Tear of Heaven deals 2D6 electricity damage to nearby enemies, and a tear of Tyr falls from the sky onto the enemies. It does 20D10 of magic damage. Enemies receive a -4 penalty against saving throws. Damage is be halved, if the saving throw is successful.~ 
 
 @26   = ~Blacksmith~ 
-@27   = ~Helmington, Askaria's father of Askaria~ 
-@28   = ~Celine, Askaria's  mother~ 
+@27   = ~Helmington, Askaria's Father~ 
+@28   = ~Celine, Askaria's Mother~ 
 @29   = ~Guard~ 
 @30   = ~Hagamemnon~ 
 
-@31   = ~Askaria's family ring~ 
-@32   = ~This light green colored ring is a treasure passed  from generation to generation in Askaria's family. It's mostly made of a material created with a secret ingredient. The ring was enhanced by a brilliant magician hundred years ago. It grants excellent protection to its wearer. 
+@31   = ~Askaria's Family Ring~ 
+@32   = ~This light green colored ring is a treasure passed  from generation to generation in Askaria's family. It is mostly made of a material created with a secret ingredient. The ring was enhanced by a brilliant mage centuries ago. It grants excellent protection to its wearer. 
 
 Abilities: 
 Immunity to normal weapons. Immunity to Level 3 or lower spells. 
@@ -110,23 +110,23 @@ AC 0
 Only usable by: 
 Mages~ 
 
-@33   = ~Twidley's blood drenched Journal~ 
-@34   = ~Twidley's blood drenched Journal 
+@33   = ~Twidley's Blood-drenched Journal~ 
+@34   = ~Twidley's Blood-drenched Journal 
 
 21 Elesias  
-Ha! Exciting! It must be the cave grandpa often told me about, I remember him saying something about a thousand bats. He also said there has been a little dragon in here recently. Rowel, Hemish and me, the three musketeers, are the only ones who could manage to find it. We will be famous! 
+Ha! Exciting! It must be the cave grandpa often told me about, I remember him saying something about a thousand bats. He also said that there had been a little dragon in here recently. Rowel, Hemish and me, the three musketeers, are the only ones who could manage to find it. We will be famous! 
 
 22 Elesias  
-All preparations are done. Rowel took his father's *real* sword, replacing it with a wood one, hihi. I learned how to cast the colour spray scroll that will make the dragon unconscious. I may look like a fool, but they have called me a genius by our school's magician. If I only got a B+ last year. Anyway, Hemish will assault the dragon from behind. So the dragon cannot escape his death. Hihi. I'm exciting just thinking about it. 
+All preparations are done. Rowel took his father's *real* sword, replacing it with a wood one, hihi. I learned how to cast the color spray scroll that will make the dragon unconscious. I may look like a fool, but I have been called a genius by our school's mage... even if I only got a B+ last year. Anyway, Hemish will assault the dragon from behind. So the dragon cannot escape his death. Hihi. I'm excited just thinking about it. 
 
 24 Elesias  
-Huh... I don't know why there are so much more monsters today. Yesterday, all I met was three sick gibberlings before I reached the cave. Damn! Hemish was just standing by while Rowel and I were fighting against those monsters. And he was watching us fight! I would have left him behind in that very moment, even thou he is my best friend. Stupid Hemish... I wouldn't have let him in our team if he wasn't. He said he would bring a magic dagger from his grandpa. But the damn dagger's a fake. What was he thinking... we are going to fight against a dragon. 
+Huh... I don't know why there are so many monsters today. Yesterday, all I met were three sick gibberlings before I reached the cave. Damn! Hemish was just standing by while Rowel and I were fighting those monsters. And he was watching us fight! I would have left him behind in that very moment, even though he is my best friend. Stupid Hemish... I wouldn't have let him in our party if he wasn't. He said he would bring a magic dagger from his grandpa. But the damned dagger's a fake. What was he thinking... we are going to fight against a dragon. 
 
 25 Elesias 
-(This probably was written before they entered the cave. The letters are scrawly.) I'm so exciting. I don't think I ever felt like this since I was born. We three musketeers will soon be famous, if we bring the dragon's head back home. Sorry Mom, but when this job is done, I will quit school. Hahaha...~ 
+(This probably was written before they entered the cave. The letters are scrawly.) I'm so excited! I don't think I've ever felt like this before. We three musketeers will soon be famous, if we bring the dragon's head back home. Sorry Mom, but when this job is done, I will quit school. Hahaha...~ 
 
 @35   = ~Skull~ 
-@36   = ~The remains of the victims of the sapphire dragon.~ 
+@36   = ~The remains of the victims of the sapphire Dragon.~ 
 @37   = ~Twidley's Mother~ 
 
 @38   = ~Cries for release~~ 
